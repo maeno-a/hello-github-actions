@@ -1,1 +1,1 @@
-hello-world
+ENTRYPOINT ["/entrypoint.sh"]
